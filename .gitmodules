@@ -6,5 +6,5 @@
 [submodule "submodule/extern/open-license-manager"]
 	path = submodule/extern/open-license-manager
 	url = https://github.com/beyond2002/licensecc.git
-	branch = .
+	branch = develop
 	ignore = all
