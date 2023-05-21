@@ -3,3 +3,6 @@
 	url = https://github.com/open-license-manager/licensecc.git
 	branch = develop
 	ignore = all
+[submodule "submodule/extern/open-license-manager"]
+	path = submodule/extern/open-license-manager
+	url = https://github.com/beyond2002/lcc-license-generator.git
