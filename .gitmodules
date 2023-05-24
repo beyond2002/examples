@@ -1,10 +1,10 @@
 [submodule "program_features/extern/licensecc"]
 	path = program_features/extern/licensecc
-	url = https://github.com/frostasm/licensecc.git
+	url = https://github.com/beyond2002/licensecc.git
 	branch = .
 	ignore = all
 [submodule "submodule/extern/open-license-manager"]
 	path = submodule/extern/open-license-manager
-	url = https://github.com/frostasm/licensecc.git
+	url = https://github.com/beyond2002/licensecc.git
 	branch = develop
 	ignore = all
