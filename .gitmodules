@@ -5,6 +5,6 @@
 	ignore = all
 [submodule "submodule/extern/open-license-manager"]
 	path = submodule/extern/open-license-manager
-	url = https://github.com/beyond2002/licensecc.git
+	url = https://github.com/frostasm/licensecc.git
 	branch = develop
 	ignore = all
