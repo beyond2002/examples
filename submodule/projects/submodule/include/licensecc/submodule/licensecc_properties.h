@@ -26,7 +26,7 @@
  * file.
  */
 
-#define LCC_PROJECT_NAME "submodule"
+#define LCC_PROJECT_NAME "DEFAULT"
 
 //License retrieval configuration
 #define FIND_LICENSE_NEAR_MODULE true
@@ -107,6 +107,9 @@ enum LCC_API_HW_IDENTIFICATION_STRATEGY {
 	* Not yet implemented
 	*/
 	STRATEGY_HOST_NAME = 4,
+	STRATEGY_ETHERNET_CPU = 5,
+	STRATEGY_IP_CPU = 6,
+	STRATEGY_MAX = 7,
 	STRATEGY_NONE = -2
 };
 
